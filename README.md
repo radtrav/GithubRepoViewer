@@ -1,6 +1,8 @@
-# Github Search and Compare
+# Github Search
 
 
 ## Purpose
 
-*Use this app to compare two different github profiles and to see which one is better based on their stats. 
+Fork this app and then clone it onto a local machine. Run npm start.
+
+Enter a GitHub username in the search bar, and that user's information will be displayed on the page.
