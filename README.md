@@ -13,7 +13,7 @@ View standard profile informations including:
 
 ## Screenshot
 
-![Check out page](https://raw.githubusercontent.com/nombiezinja/jungle-rails/master/docs/checkout.png)
-![Screenshot](https://raw.githubusercontent.com/radtrav/githubsearch_compare/Screen Shot 2018-02-15 at 4.27.49 PM.png)
+![Check out page](https://raw.githubusercontent.com/radtrav/githubsearch_compare/master/Screen%20Shot%202018-02-15%20at%204.27.49%20PM.png)
+
 
 
