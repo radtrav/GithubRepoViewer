@@ -1,8 +1,16 @@
 # Github Search
 
+An interface built using the github API to search and view github profiles.
 
-## Purpose
 
-Fork this app and then clone it onto a local machine. Run npm start.
 
-Enter a GitHub username in the search bar, and that user's information will be displayed on the page.
+
+## Features
+Search results update in real time as you type.
+
+View standard profile informations including:
+* stars
+* repos
+* watchers and forks of user's repos
+
+
